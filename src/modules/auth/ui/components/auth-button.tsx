@@ -3,6 +3,7 @@ import { UserCircleIcon } from 'lucide-react';
 import React from 'react';
 
 const AuthButton = () => {
+  // TODO: Add different auth states
   return (
     <Button
       variant="outline"
